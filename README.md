@@ -28,7 +28,7 @@ I am a **Frontend Developer** with a passion for crafting interactive and respon
   <table align="center">
     <tr>
       <td>
-        <img src="image/1.png" alt="Abdullah's Logo" width="180" />
+        <img src="image/1.jpg" alt="Abdullah's Logo" width="180" />
       </td>
       <td>
         <img src="image/my_logo.jpg" alt="Abdullah's Logo" width="180" />
@@ -53,7 +53,7 @@ I am a **Frontend Developer** with a passion for crafting interactive and respon
 ---
 
 ### 📊 GitHub Statistics
-  
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhusairin291&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
