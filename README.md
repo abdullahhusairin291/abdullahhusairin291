@@ -24,20 +24,6 @@ I am a **Frontend Developer** with a passion for crafting interactive and respon
 - 🌱 Currently learning **modern State Management patterns** to create more stable and scalable apps.
 - ⚡ Dedicated to crafting UI that is **organized, efficient, and easy to evolve**.
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,npm,postman,git,github,vercel,figma&perline=7" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Statistics
-
 <div align="center">
   <table align="center">
     <tr>
@@ -54,8 +40,19 @@ I am a **Frontend Developer** with a passion for crafting interactive and respon
   </table>
 </div>
 
-  
-  <br/>
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,npm,postman,git,github,vercel,figma&perline=7" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Statistics
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhusairin291&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
