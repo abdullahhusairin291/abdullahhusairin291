@@ -20,9 +20,9 @@
 
 I am a **Frontend Developer** with a passion for crafting interactive and responsive web experiences. I bridge the gap between design and logic, ensuring every pixel looks perfect across all devices.
 
-- 🔭 I focus on building **Intuitive UI & Seamless UX**.
-- 🌱 currently deepening my knowledge in **Modern State Management & Animation**.
-- ⚡ My goal is to write clean code that drives user engagement.
+- 🎨 Focused on building frontend applications with **Clean Architecture and maintainable code structure**.
+- 🌱 Currently learning **modern State Management patterns** to create more stable and scalable apps.
+- ⚡ Dedicated to crafting UI that is **organized, efficient, and easy to evolve**.
 
 ---
 
@@ -30,7 +30,7 @@ I am a **Frontend Developer** with a passion for crafting interactive and respon
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,git,github,vscode,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,npm,postman,git,github,vercel,figma&perline=7" />
   </a>
 </div>
 
@@ -42,13 +42,18 @@ I am a **Frontend Developer** with a passion for crafting interactive and respon
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=abdullahhusairin291&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdullah's Stats" />
+        <img src="image/1.png" alt="Abdullah's Logo" width="180" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahhusairin291&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="image/my_logo.jpg" alt="Abdullah's Logo" width="180" />
+      </td>
+      <td>
+        <img src="image/2.jpg" alt="Abdullah's Logo" width="180" />
       </td>
     </tr>
   </table>
+</div>
+
   
   <br/>
   
@@ -60,13 +65,13 @@ I am a **Frontend Developer** with a passion for crafting interactive and respon
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/USERNAME-KAMU">
+  <!-- <a href="https://linkedin.com/in/USERNAME-KAMU">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:EMAIL-KAMU@GMAIL.COM">
+  </a> -->
+  <a href="mailto:husairin11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/USERNAME-KAMU">
+  <a href="https://instagram.com/sai_zone96">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
